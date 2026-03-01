@@ -534,7 +534,7 @@ nav a:hover::before {
 	text-decoration: none;
 	transition: all 0.5s;
 	position: absolute;
-	bottom: -50px;
+	bottom: -20px;
 	
 }
 
@@ -860,6 +860,12 @@ nav a:hover::before {
 	.footer .social a{
 		font-size: 13px;
 
+	}
+	.third-content .main-btn a{
+		margin-bottom: 20px;
+	}
+	#name.form-control{
+		font-size: 13px;
 	}
 	
 }
